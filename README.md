@@ -1,4 +1,4 @@
-Program and demonstrate distributed system using RMI. [CLO1]
+Program and demonstrate distributed system using RMI.
 The student is required to build a distributed file system using client-server communication and Remote Method Invocation (RMI). The features of the file system should include but are not limited to:
 • The server can log any activity with a timestamp.
 • Any client can retrieve the activity log.
